@@ -1,0 +1,3 @@
+[submodule "VedioConferencing-Backend"]
+	path = VedioConferencing-Backend
+	url = https://github.com/ShraddhaBShinde/Video-Con.git
